@@ -1,0 +1,8 @@
+{
+  "name": "energydata-plumbing",
+  "description": "Backup and Tagging functions for energydata",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::552819999234:role/energydata-plumbing_lambda_function",
+  "environment": {}
+}

@@ -1,0 +1,15 @@
+{
+  "name": "plumbing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Development Seed <dev@developmentseed.org> (https://developmentseed.org)",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.9.0"
+  }
+}
